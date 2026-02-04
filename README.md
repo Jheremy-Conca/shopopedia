@@ -91,6 +91,7 @@ Cada producto maneja:
 
 ## 📁 Estructura del proyecto
 
+```txt
 src/
 │── App.vue
 │── main.js
@@ -142,8 +143,7 @@ src/
     └── product/
         ├── ProductList.vue
         └── ProductUpsert.vue
-
----
+```
 
 ## ⚙️ Instalación y ejecución
 
