@@ -89,80 +89,80 @@ Cada producto maneja:
 
 ---
 
-📁 ESTRUCTURA DEL PROYECTO
+## 📁 Estructura del proyecto
 
 src/
 │── App.vue
 │── main.js
 │
 ├── assets/
-│ └── logo.png
+│   └── logo.png
 │
 ├── components/
-│ ├── layout/
-│ │ ├── Header.vue
-│ │ └── Footer.vue
-│ │
-│ └── Product/
-│ ├── ProductCard.vue
-│ └── ProductDetail.vue
+│   ├── layout/
+│   │   ├── Header.vue
+│   │   └── Footer.vue
+│   │
+│   └── Product/
+│       ├── ProductCard.vue
+│       └── ProductDetail.vue
 │
 ├── composables/
-│ └── useSwal.js
+│   └── useSwal.js
 │
 ├── constants/
-│ ├── appConstants.js
-│ └── routeNames.js
+│   ├── appConstants.js
+│   └── routeNames.js
 │
 ├── router/
-│ └── routes.js
+│   └── routes.js
 │
 ├── services/
-│ └── productService.js
+│   └── productService.js
 │
 ├── stores/
-│ ├── authStore.js
-│ └── themeStore.js
+│   ├── authStore.js
+│   └── themeStore.js
 │
 ├── utility/
-│ ├── cloudinary.js
-│ └── firebaseConfig.js
+│   ├── cloudinary.js
+│   └── firebaseConfig.js
 │
 └── views/
-├── auth/
-│ ├── AccessDenied.vue
-│ ├── NotFound.vue
-│ ├── SignIn.vue
-│ └── SignUp.vue
-│
-├── home/
-│ ├── Home.vue
-│ └── ContactUs.vue
-│
-└── product/
-├── ProductList.vue
-└── ProductUpsert.vue
+    ├── auth/
+    │   ├── AccessDenied.vue
+    │   ├── NotFound.vue
+    │   ├── SignIn.vue
+    │   └── SignUp.vue
+    │
+    ├── home/
+    │   ├── Home.vue
+    │   └── ContactUs.vue
+    │
+    └── product/
+        ├── ProductList.vue
+        └── ProductUpsert.vue
 
 ---
 
-⚙️ INSTALACIÓN Y EJECUCIÓN
+## ⚙️ Instalación y ejecución
 
-1. Clonar el repositorio
-   git clone https://github.com/tu-usuario/shopopedia.git
+1. Clonar el repositorio  
+   git clone https://github.com/Jheremy-Conca/shopopedia.git  
    cd shopopedia
 
-2. Instalar dependencias
+2. Instalar dependencias  
    npm install
 
-3. Ejecutar la aplicación
+3. Ejecutar la aplicación  
    npm run dev
 
-La aplicación se ejecuta en:
+La aplicación se ejecuta en:  
 http://localhost:5173
 
 ---
 
-🎨 DISEÑO Y ARQUITECTURA
+## 🎨 Diseño y arquitectura
 
 - Arquitectura modular
 - Separación clara de responsabilidades
@@ -175,7 +175,7 @@ http://localhost:5173
 
 ---
 
-🧩 TECNOLOGÍAS
+## 🧩 Tecnologías
 
 - Vue 3 (Composition API)
 - Vite
@@ -187,7 +187,7 @@ http://localhost:5173
 
 ---
 
-👨‍💻 AUTOR
+## 👨‍💻 Autor
 
 Jheremy  
 Egresado de Computación e Informática  
@@ -196,7 +196,7 @@ Desarrollador Web Frontend con Vue.js
 
 ---
 
-📌 ESTADO DEL PROYECTO
+## 📌 Estado del proyecto
 
 ✔ Funcional  
 🔧 En mejora continua  
