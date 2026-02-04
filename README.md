@@ -147,20 +147,28 @@ src/
 
 ## ⚙️ Instalación y ejecución
 
-1. Clonar el repositorio  
-   git clone https://github.com/Jheremy-Conca/shopopedia.git  
-   cd shopopedia
+### 1️⃣ Clonar el repositorio
+```bash
+git clone https://github.com/Jheremy-Conca/shopopedia.git
+cd shopopedia
+```
 
-2. Instalar dependencias  
-   npm install
+### 2️⃣ Instalar dependencias
+```bash
+npm install
+```
 
-3. Ejecutar la aplicación  
-   npm run dev
+### 3️⃣ Ejecutar la aplicación
+```bash
+npm run dev
+```
 
-La aplicación se ejecuta en:  
+La aplicación se ejecuta en:
+
+```
 http://localhost:5173
+```
 
----
 
 ## 🎨 Diseño y arquitectura
 
