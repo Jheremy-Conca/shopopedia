@@ -8,6 +8,13 @@ Este proyecto forma parte de mi **portafolio profesional**.
 
 ---
 
+## 🌐 Demo en producción
+
+🚀 **Aplicación desplegada en Vercel:**  
+👉 https://shopopedia-alpha.vercel.app/
+
+---
+
 ## 🎯 Objetivo del proyecto
 
 Desarrollar una aplicación web moderna que permita:
@@ -145,6 +152,8 @@ src/
         └── ProductUpsert.vue
 ```
 
+---
+
 ## ⚙️ Instalación y ejecución
 
 ### 1️⃣ Clonar el repositorio
@@ -164,11 +173,11 @@ npm run dev
 ```
 
 La aplicación se ejecuta en:
-
 ```
 http://localhost:5173
 ```
 
+---
 
 ## 🎨 Diseño y arquitectura
 
@@ -197,7 +206,7 @@ http://localhost:5173
 
 ## 👨‍💻 Autor
 
-Jheremy  
+**Jheremy**  
 Egresado de Computación e Informática  
 Estudiante de Ingeniería de Sistemas  
 Desarrollador Web Frontend con Vue.js
